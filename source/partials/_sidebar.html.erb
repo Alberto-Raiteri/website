@@ -1,7 +1,7 @@
 <ul class="list-unstyled">
   <% data.artworks.each do |p| %>
   <li>
-    <a href="<%= p.slug %>"><%= p.title %></a>
+    <a href="/<%= t(:domain) %>/artworks/<%= p.slug %>"><%= p.title %></a>
   </li>
   <% end %>
 </ul>
