@@ -1,0 +1,165 @@
+@import "bootstrap";
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  letter-spacing: 2px;
+}
+h2 {
+  font-size: 2rem;
+  letter-spacing: 2px;
+}
+h3 {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+nav {
+  //margin-bottom: 4rem;
+}
+
+.content {
+  min-height: calc(100vh - 60px);
+}
+
+.navbar {
+  letter-spacing: 2px;
+}
+
+.navbar-brand {
+  text-transform: uppercase;
+}
+
+header {
+  margin: 2rem 0;
+}
+
+main {
+  padding-bottom: 4rem;
+  p, ul {
+    letter-spacing: 1px;
+    line-height: 1.6em;
+  }
+}
+
+aside {
+  ul, li a {
+    color: $gray-600;
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+    line-height: 2em;
+    text-transform: uppercase;
+    &:hover {
+      color: black;
+      text-decoration: none;
+    }
+  }
+}
+
+footer {
+  margin-top: 2rem;
+  padding: 2rem 2rem 1rem;
+}
+
+.artworks, .exhibitions, .about, .statement {
+  background: url("http://uffa.eu/_img/home/swinging-song.jpg") no-repeat fixed center;
+  color: white;
+  font-size: 4vh;
+  letter-spacing: 2px;
+  margin: 1vh auto;
+  padding: 8vh 0;
+  text-align: center;
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  h1 {
+    background: black;
+    margin: 0 auto;
+    padding: 1rem 0;
+  }
+}
+
+.piece-of-art {
+  a {
+    text-decoration: none;
+    figure {
+      color: black;
+      figcaption {
+        opacity: 0;
+      }
+      &:hover {
+        cursor: pointer;
+        text-decoration: none;
+        figcaption {
+          background-color: white;
+          color: black;
+          margin-top: -2.5rem;
+          max-width: 75%;
+          opacity: .99;
+          padding: 0.25rem 0.5rem;
+          z-index: 999;
+        }
+      }
+    }
+  }
+}
+
+/*
+ * Extra utilities
+ */
+
+.flex-equal > * {
+  -ms-flex: 1;
+  flex: 1;
+}
+@media (min-width: 768px) {
+  .flex-md-equal > * {
+    -ms-flex: 1;
+    flex: 1;
+  }
+}
+
+.overflow-hidden { overflow: hidden; }
+
+
+/* Lightbox */
+
+.btn:focus, .btn:active, button:focus, button:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+#image-gallery .modal-footer{
+  display: block;
+}
+
+.thumb{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+/* Fix default thumbs */
+.img-thumbnail {
+  padding: 0;
+  background-color: #fff;
+  border: 0;
+  border-radius: 0;
+  max-width: 100%;
+  height: auto;
+}
+
+.modal-content {
+  border: 0;
+  border-radius: 0;
+}
+
+.modal-body {
+  padding: 0;
+}
+
+.modal-lg, .modal-xl {
+  max-width: 96%;
+}
