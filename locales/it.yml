@@ -4,52 +4,11 @@ it:
   static: "http://uffa.eu"
   welcome: "Home"
   artworks: "Lavori"
+  projects: "Progetti Speciali"
   exhibitions: "Mostre"
   about: "Biografia"
   statement: "Statement"
+  fullscreen: "A schermo intero"
   copyright: "Tutti i diritti riservati"
   download: "Scarica"
   contact: "Contatti"
-  abouttext: "<p>Alberto Raiteri nasce nel 1966 a Casale Monferrato.</p>
-  <p>Consegue la Maturità Artistica nel 1984 e, nel 1987, il Diploma di Illustrazione presso lo IED, Istituto Europeo di Design, di Milano.</p>
-  <p>Dopo un'esperienza presso l'agenzia pubblicitaria 'Ormandy & Mayer' di Alessandria, nel 1991 fonda, insieme ad Elena Doria, l'agenzia 'Raiteri & Doria Associati', con la quale opera come illustratore editoriale e pubblicitario e come designer per alcune delle più importanti aziende del settore della casa e della cultura della tavola, sia in Italia che all'estero.</p>
-  <p>Negli anni '90, inizia il suo percorso di ricerca attraverso il teatro e la pittura, alla quale si dedica interamente dal 2003, abbandonando definitivamente l'ambito pubblicitario.</p>"
-  statementtext: "<p>Iniziai a lavorare come illustratore e designer nel 1987, al termine degli studi, per dedicarmi integralmente alla pittura solo diversi anni dopo. La spinta giunse quando realizzai che esisteva una dimensione, densa e tangibile, attraverso la quale filtrano tutti i nostri pensieri, le nostre emozioni e sensazioni; è il filtro che ci consente di percepire la realtà: la dimensione del dramma.</p>
-  <p>Cominciai ad indagare gli aspetti più profondi e nascosti dell'Uomo e il suo comportamento nella vita quotidiana in relazione a questa dimensione drammatica che ne domina l'esistenza.</p>
-  <p>Al principio utilizzavo pannelli di legno come supporto, recuperati per strada o in discarica. Disegnavo continuamente su ogni tipo di carta i frammenti delle storie che ricavavo dalla mia esperienza diretta o attraverso l'osservazione esterna di quella di altri.</p>
-  <p>Incollavo i disegni sul legno cercando di ricomporre un ordine e ricostruendo così un'altra storia, universale, in cui ognuno potesse ritrovarsi e infine aggiungevo il colore. La tecnica del collage risultava adeguata alla ricostruzione narrativa dei frammenti di carta.</p>
-  <p>Quando compresi che il dramma mi appariva con colori vivaci e brillanti, poiché spesso si manifesta in modo violento e accecante, mi trovai di fronte ad una nuova difficoltà. Dovevo riuscire a trasmettere la densità di questa dimensione, pur utilizzando colori ai quali siamo abituati ad attribuire significati più ameni.</p>
-  <p>Iniziai a sporcare il tratto rendendolo sempre più essenziale, quasi primitivo e infantile; in seguito aggiunsi le colature di colore che non rispondevano semplicemente alla forza di gravità, ma consentivano ai colori stessi di contaminarsi a vicenda, sovrapponendosi continuamente gli uni agli altri.</p>
-  <p>Mi concentrai fin dal principio sui dettagli inserendo piccoli frammenti di immagini, numeri, parole per costruire delle microstorie che, attraverso il segno e il colore, riuscissero a definire meglio il tema portante del lavoro, la macrostoria che intendevo rappresentare.</p>
-  <p>La parola, in particolare, ha sempre avuto un ruolo importante nei miei lavori, sia come parte integrante della storia narrata, da intendersi come elemento significativo, sia come significante, ridotta a segno e colore. La scelta di utilizzare la lingua inglese, spesso più sintetica ed efficace rispetto all'Italiano,  risponde alla necessità di internazionalizzare il messaggio sottolineandone l'universalità del concetto e rendendolo immediatamente fruibile da un numero maggiore di persone.</p>
-  <p>Il bisogno crescente di confrontare la mia ricerca con quella condotta da altri artisti, soprattutto in relazione alla pittura, mi indusse a sospendere per alcuni anni il mio lavoro. Tentai di teorizzarne sia gli aspetti concettuali, sia quelli tecnici con l'obiettivo di ridefinire un percorso, anche a livello espositivo, che potesse consentirmi di ottenere un maggiore riconoscimento.</p>
-  <p>L'arte è  prima di tutto un fatto visivo, poiché il pensiero si esprime attraverso la materia ed essa ha una sua forma, una densità, un colore e perfino un sapore. Ultimamente, ho scelto di portare la sfida della materia sulla tela, aumentandone il peso con la colla e il volume attraverso l'accentuazione delle increspature e le pieghe della carta. In questo modo si riduce la distanza fra il piano bidimensionale del dipinto e l'osservatore.</p>
-  <p>La vita dell'uomo è tessuta da storie, piccole o grandi che si intrecciano. Non vi sono cose più interessanti di altre, ma modi più o meno interessanti di vederle e raccontarle. Io parto da piccoli dettagli, particolari apparentemente insignificanti per raccontare e ricostruire una storia che appartenga a tutti, nella quale ognuno possa riconoscersi, nel tentativo di rivelare quelle verità che spesso la società in cui viviamo tenta di celare.</p>"
-  exhibitionstext: '<h3>Mostre Personali</h3>
-  <ul>
-    <li>2019: "Sordità e indifferenza" di Vito Boggeri e Alberto Raiteri - Fondazione Arte, Storia e Cultura Ebraica a Casale Monferrato e nel Piemonte Orientale Onlus, Sala Carmi</li>
-    <li>2018: "Love me tender" a cura di Daria Carmi - Manica Lunga del Castello, Casale Monferrato (AL)</li>
-    <li>2010: "Impossible Love" - Cell63 Art Gallery, Berlino</li>
-    <li>2007: "Gli amori impossibili della Signora J." a cura di Francesca Baboni e Stefano Taddei - Galleria Canalgrande18, Modena</li>
-    <li>2006: "Lo Smascheratore vol. 2" a cura di Marialivia Brunelli - Villa Capriglio, Torino</li>
-    <li>2006: "Lo Smascheratore" a cura di Marialivia Brunelli - Zuni Arte Contemporanea, Ferrara</li>
-    <li>2001: "La Signora J. si nutre di delicate parole" - Centro Civico "G. Buranello", Genova</li>
-    <li>2001: "Lamenti e balene" - Villa Vidua, Conzano (AL)</li>
-  </ul>
-  <h3>Mostre Collettive</h3>
-  <ul>
-    <li>2013: "Red Shoes" a cura di "Paso Rojo" - Plastic Passion, Genova</li>
-    <li>2011: "Centocinquanta" a cura di Daniela Cotimbo con il coordinamento dei Direttori Scientifici Angelo Raffaele Villani e Amelia Liana Lasaponara - MACÒ (Museo Arti Contemporanee) Lizzano (TA)</li>
-    <li>2009: "Warten auf sol invictus"  a cura di Luisa Catucci - Cell63 Art Gallery, Berlino</li>
-    <li>2009: "Bergamo Arte Fiera" - Spazio Aliarte</li>
-    <li>2007: "Kreativa" a cura di Isabella Falbo e Simona Pinelli - "Artsinergy", Bologna</li>
-    <li>2007: "Greatest Hits" a cura di Francesca Baboni e Stefano Taddei - Galleria Canalgrande, Modena</li>
-    <li>2007: "Curator''s Collection" a cura di Marialivia Brunelli - MLB Home Gallery, Ferrara</li>
-    <li>2006: "Segni" a cura di Delia Gianti - Cenacolo Felice Casorati, Torino</li>
-    <li>2005: "Visionaria" a cura di Mauro Tozzi - Mediateca, Siena</li>
-    <li>2005: Festival Internazionale di Videoarte "Eros+Food" a cura di Luca Curci - Sala Estense, Ferrara</li>
-    <li>2003: "No Parachute" - Artandgallery, Milano</li>
-    <li>2002: "Biennale Internazionale d''Arte di Ferrara" a cura di Paolo Orsatti - Castello Estense, Ferrara</li>
-    <li>2002: "Arte Nonstop" a cura di Paolo Orsatti - Galleria Sekanina, Ferrara</li>
-    <li>2000: III Biennale Internazionale "Arte senza tempo" - Tartarici Factory, Alessandria</li>
-  </ul>'

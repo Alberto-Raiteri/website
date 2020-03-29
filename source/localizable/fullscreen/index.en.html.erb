@@ -1,0 +1,41 @@
+---
+layout: layout
+title: Artworks
+---
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-9 offset-lg-3">
+      <header>
+        <h1><%= t(:artworks) %></h1>
+      </header>
+    </div>
+  </div>
+</div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-9 order-lg-2">
+      <div class="row">
+        <div class="container-fluid">
+          <div class="row piece-of-art">
+            <% data.artworks.each do |p| %>
+            <div class="col-6 col-lg-3 col-md-4">
+              <a href="/<%= t(:domain) %>/artworks/<%= p.slug %>">
+                <figure>
+                  <img class="img-fluid" src="<%= t(:static) %>/_img/thumbs/<%= p.slug %>.jpg">
+                  <figcaption class="d-none d-sm-block"><%= p.title %></figcaption>
+                </figure>
+              </a>
+            </div>
+            <% end %>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 order-lg-1">
+      <aside>
+        <%= partial(:'partials/sidebar') %>
+      </aside>
+    </div>
+  </div>
+</div>

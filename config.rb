@@ -19,7 +19,6 @@ page '/*.json', layout: false
 page '/*.txt', layout: false
 
 # Localization
-# activate :i18n
 activate :i18n, :mount_at_root => false # All languages will be prefixed
 
 # LiveReload
