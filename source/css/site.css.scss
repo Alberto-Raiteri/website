@@ -70,7 +70,6 @@ footer {
 .artworks, .projects, .exhibitions, .about, .statement {
   background: url("http://uffa.eu/_img/home/swinging-song.jpg") no-repeat fixed center;
   color: white;
-  font-size: 4vh;
   letter-spacing: 2px;
   margin: 1vh auto;
   padding: 8vh 0;
@@ -83,6 +82,7 @@ footer {
     background: black;
     margin: 0 auto;
     padding: 1rem 0;
+    font-size: 2rem;
   }
 }
 
@@ -112,6 +112,11 @@ main#exhibitions {
   li {
     margin-bottom: 1rem;
   }
+}
+
+main.h-100 {
+  min-height: 420px;
+  margin-bottom: 2rem;
 }
 
 aside#agnese {
@@ -156,6 +161,11 @@ aside#agnese {
   .flex-md-equal > * {
     -ms-flex: 1;
     flex: 1;
+  }
+  .artworks, .projects, .exhibitions, .about, .statement {
+    h1 {
+      font-size: 3.2rem;
+    }
   }
 }
 
