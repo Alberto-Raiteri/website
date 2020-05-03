@@ -13,3 +13,7 @@ Please see the Middleman website for [installation](https://middlemanapp.com/bas
 ## Build the website
 
     $ bundle exec middleman build
+
+## Deploy
+
+    $ bundle exec middleman deploy
